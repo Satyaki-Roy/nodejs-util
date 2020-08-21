@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="26503e65-615b-413b-ab96-c125891c0276" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1g52cmDurj4umNdEWhVxqDmRDcN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.12.54" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$USER_HOME$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26503e65-615b-413b-ab96-c125891c0276" name="Default Changelist" comment="" />
+      <created>1597390215240</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597390215240</updated>
+      <workItem from="1597390216336" duration="6753000" />
+      <workItem from="1597638006660" duration="6876000" />
+      <workItem from="1597665892814" duration="599000" />
+      <workItem from="1597720609856" duration="12489000" />
+      <workItem from="1597800134005" duration="644000" />
+      <workItem from="1597815588967" duration="5684000" />
+      <workItem from="1597889074592" duration="3950000" />
+      <workItem from="1597907412185" duration="736000" />
+      <workItem from="1597979214086" duration="10075000" />
+      <workItem from="1597992026742" duration="184000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="689" y="354" width="658" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597990372354">
+      <screen x="55" y="0" width="1865" height="1080" />
+    </state>
+    <state x="653" y="1434" width="658" height="396" key="#com.intellij.fileTypes.FileTypeChooser/0.1080.1920.1080/55.0.1865.1080@0.1080.1920.1080" timestamp="1597985346764" />
+    <state x="689" y="354" key="#com.intellij.fileTypes.FileTypeChooser/0.1080.1920.1080/55.0.1865.1080@55.0.1865.1080" timestamp="1597990372354" />
+    <state x="708" y="1306" width="437" height="570" key="FileChooserDialogImpl" timestamp="1597907497218">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="708" y="1306" width="437" height="570" key="FileChooserDialogImpl/0.1080.1920.1080/55.0.1865.1080@0.1080.1920.1080" timestamp="1597907497218" />
+    <state x="743" y="297" width="424" height="484" key="FileChooserDialogImpl/0.1080.1920.1080/55.0.1865.1080@55.0.1865.1080" timestamp="1597391496981" />
+    <state x="743" y="1107" width="424" height="484" key="FileChooserDialogImpl/55.0.1865.2160@55.0.1865.2160" timestamp="1597831142766" />
+    <state x="743" y="317" key="FileChooserDialogImpl/55.27.1865.1053@55.27.1865.1053" timestamp="1597800171968" />
+    <state x="449" y="174" key="SettingsEditor" timestamp="1597391500209">
+      <screen x="55" y="0" width="1865" height="1080" />
+    </state>
+    <state x="449" y="174" key="SettingsEditor/0.1080.1920.1080/55.0.1865.1080@55.0.1865.1080" timestamp="1597391500209" />
+    <state x="624" y="246" key="run.anything.popup" timestamp="1597729694631">
+      <screen x="55" y="0" width="1865" height="1080" />
+    </state>
+    <state x="624" y="246" key="run.anything.popup/0.1080.1920.1080/55.0.1865.1080@55.0.1865.1080" timestamp="1597729694631" />
+    <state x="650" y="1337" width="672" height="678" key="search.everywhere.popup" timestamp="1597896300005">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="650" y="1337" width="672" height="678" key="search.everywhere.popup/0.1080.1920.1080/55.0.1865.1080@0.1080.1920.1080" timestamp="1597896300005" />
+  </component>
+</project>

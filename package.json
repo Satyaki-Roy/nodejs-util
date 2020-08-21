@@ -1,0 +1,16 @@
+{
+  "name": "temp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "image-fetch-using-https.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2",
+    "utf8": "^3.0.0"
+  }
+}
