@@ -3,8 +3,31 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="26503e65-615b-413b-ab96-c125891c0276" name="Default Changelist" comment="" />
+    <list default="true" id="26503e65-615b-413b-ab96-c125891c0276" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-fetch-using-https.js" beforeDir="false" afterPath="$PROJECT_DIR$/fetching-images/image-fetch-using-https.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +68,11 @@
     <property name="prettierjs.PrettierConfiguration.Package" value="$USER_HOME$/node_modules/prettier" />
     <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/fetching-images" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,24 +90,40 @@
       <workItem from="1597889074592" duration="3950000" />
       <workItem from="1597907412185" duration="736000" />
       <workItem from="1597979214086" duration="10075000" />
-      <workItem from="1597992026742" duration="184000" />
+      <workItem from="1597992026742" duration="2227000" />
+      <workItem from="1597995856305" duration="979000" />
+      <workItem from="1597996882662" duration="1590000" />
+      <workItem from="1598007336761" duration="885000" />
+      <workItem from="1598235493670" duration="295000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="689" y="354" width="658" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597990372354">
-      <screen x="55" y="0" width="1865" height="1080" />
-    </state>
-    <state x="653" y="1434" width="658" height="396" key="#com.intellij.fileTypes.FileTypeChooser/0.1080.1920.1080/55.0.1865.1080@0.1080.1920.1080" timestamp="1597985346764" />
-    <state x="689" y="354" key="#com.intellij.fileTypes.FileTypeChooser/0.1080.1920.1080/55.0.1865.1080@55.0.1865.1080" timestamp="1597990372354" />
-    <state x="708" y="1306" width="437" height="570" key="FileChooserDialogImpl" timestamp="1597907497218">
+    <state x="653" y="1434" width="658" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598002833325">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
-    <state x="708" y="1306" width="437" height="570" key="FileChooserDialogImpl/0.1080.1920.1080/55.0.1865.1080@0.1080.1920.1080" timestamp="1597907497218" />
-    <state x="743" y="297" width="424" height="484" key="FileChooserDialogImpl/0.1080.1920.1080/55.0.1865.1080@55.0.1865.1080" timestamp="1597391496981" />
+    <state x="653" y="1434" width="658" height="396" key="#com.intellij.fileTypes.FileTypeChooser/0.1080.1920.1080/55.0.1865.1080@0.1080.1920.1080" timestamp="1598002833325" />
+    <state x="689" y="354" key="#com.intellij.fileTypes.FileTypeChooser/0.1080.1920.1080/55.0.1865.1080@55.0.1865.1080" timestamp="1597990372354" />
+    <state x="743" y="297" width="437" height="570" key="FileChooserDialogImpl" timestamp="1598008220036">
+      <screen x="55" y="0" width="1865" height="1080" />
+    </state>
+    <state x="708" y="1306" width="437" height="570" key="FileChooserDialogImpl/0.1080.1920.1080/55.0.1865.1080@0.1080.1920.1080" timestamp="1598004148698" />
+    <state x="743" y="297" width="424" height="484" key="FileChooserDialogImpl/0.1080.1920.1080/55.0.1865.1080@55.0.1865.1080" timestamp="1598008220036" />
     <state x="743" y="1107" width="424" height="484" key="FileChooserDialogImpl/55.0.1865.2160@55.0.1865.2160" timestamp="1597831142766" />
     <state x="743" y="317" key="FileChooserDialogImpl/55.27.1865.1053@55.27.1865.1053" timestamp="1597800171968" />
     <state x="449" y="174" key="SettingsEditor" timestamp="1597391500209">
