@@ -22,9 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26503e65-615b-413b-ab96-c125891c0276" name="Default Changelist" comment="">
+    <list default="true" id="26503e65-615b-413b-ab96-c125891c0276" name="Default Changelist" comment="Reading An Excel File In Node.js">
+      <change afterPath="$PROJECT_DIR$/read-excel-file/Data.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/read-excel-file/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image-fetch-using-https.js" beforeDir="false" afterPath="$PROJECT_DIR$/fetching-images/image-fetch-using-https.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -70,6 +71,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/read-excel-file" />
       <recent name="$PROJECT_DIR$/fetching-images" />
     </key>
   </component>
@@ -94,7 +96,7 @@
       <workItem from="1597995856305" duration="979000" />
       <workItem from="1597996882662" duration="1590000" />
       <workItem from="1598007336761" duration="885000" />
-      <workItem from="1598235493670" duration="295000" />
+      <workItem from="1598235493670" duration="4911000" />
     </task>
     <servers />
   </component>
@@ -113,6 +115,10 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Reading An Excel File In Node.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reading An Excel File In Node.js" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="653" y="1434" width="658" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598002833325">
       <screen x="0" y="1080" width="1920" height="1080" />
@@ -130,6 +136,10 @@
       <screen x="55" y="0" width="1865" height="1080" />
     </state>
     <state x="449" y="174" key="SettingsEditor/0.1080.1920.1080/55.0.1865.1080@55.0.1865.1080" timestamp="1597391500209" />
+    <state x="769" y="1547" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598241038729">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="769" y="1547" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.1080.1920.1080/55.0.1865.1080@0.1080.1920.1080" timestamp="1598241038729" />
     <state x="624" y="246" key="run.anything.popup" timestamp="1597729694631">
       <screen x="55" y="0" width="1865" height="1080" />
     </state>

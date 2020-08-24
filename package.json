@@ -1,5 +1,5 @@
 {
-  "name": "NodeJS Utilities",
+  "name": "nodejs-utilities",
   "version": "1.0.0",
   "description": "Utility module created by me.",
   "main": "image-fetch-using-https.js",
@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.20.0",
+    "read-excel-file": "^4.0.7",
     "request": "^2.88.2",
     "utf8": "^3.0.0"
   }
