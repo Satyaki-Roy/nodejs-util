@@ -54,7 +54,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
     <property name="javascript.nodejs.core.library.typings.version" value="12.12.54" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../myeyes360-api" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../temp" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -64,6 +64,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$USER_HOME$/node_modules/prettier" />
     <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -95,6 +96,12 @@
       <workItem from="1598235493670" duration="7365000" />
       <workItem from="1598250898071" duration="20000" />
       <workItem from="1598252073553" duration="747000" />
+      <workItem from="1598320926313" duration="183000" />
+      <workItem from="1598326328553" duration="650000" />
+      <workItem from="1598406734074" duration="17000" />
+      <workItem from="1598406769868" duration="549000" />
+      <workItem from="1598407330785" duration="22069000" />
+      <workItem from="1598448590118" duration="2228000" />
     </task>
     <task id="LOCAL-00001" summary="Reading An Excel File In Node.js">
       <created>1598241238472</created>
@@ -131,10 +138,10 @@
     </state>
     <state x="653" y="1434" width="658" height="396" key="#com.intellij.fileTypes.FileTypeChooser/0.1080.1920.1080/55.0.1865.1080@0.1080.1920.1080" timestamp="1598002833325" />
     <state x="689" y="354" key="#com.intellij.fileTypes.FileTypeChooser/0.1080.1920.1080/55.0.1865.1080@55.0.1865.1080" timestamp="1597990372354" />
-    <state x="743" y="247" width="437" height="570" key="FileChooserDialogImpl" timestamp="1598255732748">
-      <screen x="55" y="27" width="1865" height="1053" />
+    <state x="708" y="1306" width="437" height="570" key="FileChooserDialogImpl" timestamp="1598436594953">
+      <screen x="0" y="1080" width="1920" height="1080" />
     </state>
-    <state x="708" y="1306" width="437" height="570" key="FileChooserDialogImpl/0.1080.1920.1080/55.0.1865.1080@0.1080.1920.1080" timestamp="1598250916643" />
+    <state x="708" y="1306" width="437" height="570" key="FileChooserDialogImpl/0.1080.1920.1080/55.0.1865.1080@0.1080.1920.1080" timestamp="1598436594953" />
     <state x="743" y="297" width="424" height="484" key="FileChooserDialogImpl/0.1080.1920.1080/55.0.1865.1080@55.0.1865.1080" timestamp="1598008220036" />
     <state x="743" y="247" key="FileChooserDialogImpl/0.1080.1920.1080/55.27.1865.1053@55.27.1865.1053" timestamp="1598255732748" />
     <state x="743" y="1107" width="424" height="484" key="FileChooserDialogImpl/55.0.1865.2160@55.0.1865.2160" timestamp="1597831142766" />
