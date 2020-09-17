@@ -14,7 +14,7 @@ Object.defineProperty(obj, "a", {
   },
 });
 
-// console.log(obj.a, obj.a, obj.a);
+console.log(obj.a, obj.a, obj.a);
 
 //////////////////////////////using proxy//////////////////////////////
 
