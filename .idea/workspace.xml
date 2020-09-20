@@ -24,7 +24,6 @@
   <component name="ChangeListManager">
     <list default="true" id="26503e65-615b-413b-ab96-c125891c0276" name="Default Changelist" comment="Reading An Excel File In Node.js">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects-in-js/ObjectDefineProperty-and-Proxy.js" beforeDir="false" afterPath="$PROJECT_DIR$/objects-in-js/ObjectDefineProperty-and-Proxy.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +146,9 @@
       <workItem from="1600259615366" duration="6789000" />
       <workItem from="1600306763767" duration="14023000" />
       <workItem from="1600325608069" duration="527000" />
-      <workItem from="1600331822749" duration="4133000" />
+      <workItem from="1600331822749" duration="4831000" />
+      <workItem from="1600394862846" duration="283000" />
+      <workItem from="1600569916711" duration="1313000" />
     </task>
     <task id="LOCAL-00001" summary="Reading An Excel File In Node.js">
       <created>1598241238472</created>
