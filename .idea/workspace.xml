@@ -23,6 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26503e65-615b-413b-ab96-c125891c0276" name="Default Changelist" comment="Reading An Excel File In Node.js">
+      <change afterPath="$PROJECT_DIR$/misc/browser-environment-sniffing.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -148,7 +149,9 @@
       <workItem from="1600325608069" duration="527000" />
       <workItem from="1600331822749" duration="4831000" />
       <workItem from="1600394862846" duration="283000" />
-      <workItem from="1600569916711" duration="1313000" />
+      <workItem from="1600569916711" duration="1726000" />
+      <workItem from="1600595883344" duration="1688000" />
+      <workItem from="1600828192803" duration="1253000" />
     </task>
     <task id="LOCAL-00001" summary="Reading An Excel File In Node.js">
       <created>1598241238472</created>
@@ -197,10 +200,10 @@
     </state>
     <state x="653" y="1434" width="658" height="396" key="#com.intellij.fileTypes.FileTypeChooser/0.1080.1920.1080/55.0.1865.1080@0.1080.1920.1080" timestamp="1598002833325" />
     <state x="689" y="354" key="#com.intellij.fileTypes.FileTypeChooser/0.1080.1920.1080/55.0.1865.1080@55.0.1865.1080" timestamp="1597990372354" />
-    <state x="743" y="317" width="424" height="484" key="FileChooserDialogImpl" timestamp="1600084668479">
-      <screen x="55" y="27" width="1865" height="1053" />
+    <state x="708" y="1306" width="424" height="484" key="FileChooserDialogImpl" timestamp="1600588225069">
+      <screen x="0" y="1080" width="1920" height="1080" />
     </state>
-    <state x="708" y="1306" width="437" height="570" key="FileChooserDialogImpl/0.1080.1920.1080/55.0.1865.1080@0.1080.1920.1080" timestamp="1599114172281" />
+    <state x="708" y="1306" width="437" height="570" key="FileChooserDialogImpl/0.1080.1920.1080/55.0.1865.1080@0.1080.1920.1080" timestamp="1600588225069" />
     <state x="743" y="297" width="424" height="484" key="FileChooserDialogImpl/0.1080.1920.1080/55.0.1865.1080@55.0.1865.1080" timestamp="1598849802624" />
     <state x="743" y="247" width="424" height="484" key="FileChooserDialogImpl/0.1080.1920.1080/55.27.1865.1053@55.27.1865.1053" timestamp="1599199043547" />
     <state x="743" y="1107" width="424" height="484" key="FileChooserDialogImpl/55.0.1865.2160@55.0.1865.2160" timestamp="1597831142766" />
