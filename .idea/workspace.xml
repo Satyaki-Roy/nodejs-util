@@ -23,7 +23,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26503e65-615b-413b-ab96-c125891c0276" name="Default Changelist" comment="Reading An Excel File In Node.js">
-      <change afterPath="$PROJECT_DIR$/promises/nested-promise.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -151,7 +150,7 @@
       <workItem from="1600394862846" duration="283000" />
       <workItem from="1600569916711" duration="1726000" />
       <workItem from="1600595883344" duration="1688000" />
-      <workItem from="1600828192803" duration="8315000" />
+      <workItem from="1600828192803" duration="11113000" />
     </task>
     <task id="LOCAL-00001" summary="Reading An Excel File In Node.js">
       <created>1598241238472</created>
