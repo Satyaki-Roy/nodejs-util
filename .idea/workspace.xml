@@ -24,6 +24,8 @@
   <component name="ChangeListManager">
     <list default="true" id="26503e65-615b-413b-ab96-c125891c0276" name="Default Changelist" comment="Reading An Excel File In Node.js">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +165,7 @@
       <workItem from="1601793595335" duration="4042000" />
       <workItem from="1601865154989" duration="73000" />
       <workItem from="1602068030281" duration="4197000" />
-      <workItem from="1602124900507" duration="3727000" />
+      <workItem from="1602124900507" duration="8415000" />
     </task>
     <task id="LOCAL-00001" summary="Reading An Excel File In Node.js">
       <created>1598241238472</created>
