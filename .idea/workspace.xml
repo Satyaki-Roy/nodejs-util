@@ -23,87 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26503e65-615b-413b-ab96-c125891c0276" name="Default Changelist" comment="Reading An Excel File In Node.js">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/temp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/temp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array-tech/async-foreach.js" beforeDir="false" afterPath="$PROJECT_DIR$/array-tech/async-foreach.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/callback/callback-to-promise.js" beforeDir="false" afterPath="$PROJECT_DIR$/callback/callback-to-promise.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/ClassesOverConstructor.js" beforeDir="false" afterPath="$PROJECT_DIR$/classes/ClassesOverConstructor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/es5-class-tech.js" beforeDir="false" afterPath="$PROJECT_DIR$/classes/es5-class-tech.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/es6-class-tech.js" beforeDir="false" afterPath="$PROJECT_DIR$/classes/es6-class-tech.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/method-chaining.js" beforeDir="false" afterPath="$PROJECT_DIR$/classes/method-chaining.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/closures/question1.js" beforeDir="false" afterPath="$PROJECT_DIR$/closures/question1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-mistakes/block-level-scoping.js" beforeDir="false" afterPath="$PROJECT_DIR$/common-mistakes/block-level-scoping.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-mistakes/this-keyword.js" beforeDir="false" afterPath="$PROJECT_DIR$/common-mistakes/this-keyword.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-mistakes/unexpected-global-var.js" beforeDir="false" afterPath="$PROJECT_DIR$/common-mistakes/unexpected-global-var.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-structures/LinkedList.js" beforeDir="false" afterPath="$PROJECT_DIR$/data-structures/LinkedList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-structures/PriorityQueue.js" beforeDir="false" afterPath="$PROJECT_DIR$/data-structures/PriorityQueue.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-structures/Queue.js" beforeDir="false" afterPath="$PROJECT_DIR$/data-structures/Queue.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-structures/Stack.js" beforeDir="false" afterPath="$PROJECT_DIR$/data-structures/Stack.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-structures/date-constructor.js" beforeDir="false" afterPath="$PROJECT_DIR$/data-structures/date-constructor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-structures/map-ds.js" beforeDir="false" afterPath="$PROJECT_DIR$/data-structures/map-ds.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-structures/set-ds.js" beforeDir="false" afterPath="$PROJECT_DIR$/data-structures/set-ds.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-structures/weak-map-ds.js" beforeDir="false" afterPath="$PROJECT_DIR$/data-structures/weak-map-ds.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-structures/weak-set-ds.js" beforeDir="false" afterPath="$PROJECT_DIR$/data-structures/weak-set-ds.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-type/bigInt.js" beforeDir="false" afterPath="$PROJECT_DIR$/data-type/bigInt.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-type/symbol.js" beforeDir="false" afterPath="$PROJECT_DIR$/data-type/symbol.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/error-handling/built-in-error-obj.js" beforeDir="false" afterPath="$PROJECT_DIR$/error-handling/built-in-error-obj.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/error-handling/centrally-error-handling-express.js" beforeDir="false" afterPath="$PROJECT_DIR$/error-handling/centrally-error-handling-express.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fetching-images/image-fetch-using-axios.js" beforeDir="false" afterPath="$PROJECT_DIR$/fetching-images/image-fetch-using-axios.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fetching-images/image-fetch-using-https.js" beforeDir="false" afterPath="$PROJECT_DIR$/fetching-images/image-fetch-using-https.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fetching-images/image-fetch-using-request.js" beforeDir="false" afterPath="$PROJECT_DIR$/fetching-images/image-fetch-using-request.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iterators-and-generators/async-iterators/async-iterators.js" beforeDir="false" afterPath="$PROJECT_DIR$/iterators-and-generators/async-iterators/async-iterators.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iterators-and-generators/async-iterators/fake-store.js" beforeDir="false" afterPath="$PROJECT_DIR$/iterators-and-generators/async-iterators/fake-store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iterators-and-generators/generators.js" beforeDir="false" afterPath="$PROJECT_DIR$/iterators-and-generators/generators.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iterators-and-generators/iterators.js" beforeDir="false" afterPath="$PROJECT_DIR$/iterators-and-generators/iterators.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iterators-and-generators/my-iterator.js" beforeDir="false" afterPath="$PROJECT_DIR$/iterators-and-generators/my-iterator.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js-functions/arr-proto-filter.js" beforeDir="false" afterPath="$PROJECT_DIR$/js-functions/arr-proto-filter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js-functions/arr-proto-flat.js" beforeDir="false" afterPath="$PROJECT_DIR$/js-functions/arr-proto-flat.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js-functions/arr-proto-map.js" beforeDir="false" afterPath="$PROJECT_DIR$/js-functions/arr-proto-map.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js-functions/arr-proto-reduce.js" beforeDir="false" afterPath="$PROJECT_DIR$/js-functions/arr-proto-reduce.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js-functions/arr-proto-some.js" beforeDir="false" afterPath="$PROJECT_DIR$/js-functions/arr-proto-some.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js-functions/caching-func-calc-result.js" beforeDir="false" afterPath="$PROJECT_DIR$/js-functions/caching-func-calc-result.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js-functions/specific-obj-type.js" beforeDir="false" afterPath="$PROJECT_DIR$/js-functions/specific-obj-type.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js-technique/check-if-object-is-empty.js" beforeDir="false" afterPath="$PROJECT_DIR$/js-technique/check-if-object-is-empty.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js-technique/currying.js" beforeDir="false" afterPath="$PROJECT_DIR$/js-technique/currying.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js-tips/array-of-obj.js" beforeDir="false" afterPath="$PROJECT_DIR$/js-tips/array-of-obj.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js-tips/dynamic-key.js" beforeDir="false" afterPath="$PROJECT_DIR$/js-tips/dynamic-key.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js-tips/fill-arrays.js" beforeDir="false" afterPath="$PROJECT_DIR$/js-tips/fill-arrays.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js-tips/tagged-func.js" beforeDir="false" afterPath="$PROJECT_DIR$/js-tips/tagged-func.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/middleware/compose.js" beforeDir="false" afterPath="$PROJECT_DIR$/middleware/compose.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/misc/browser-environment-sniffing.js" beforeDir="false" afterPath="$PROJECT_DIR$/misc/browser-environment-sniffing.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects-in-js/ObjectDefineProperty-and-Proxy.js" beforeDir="false" afterPath="$PROJECT_DIR$/objects-in-js/ObjectDefineProperty-and-Proxy.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects-in-js/associate-property.js" beforeDir="false" afterPath="$PROJECT_DIR$/objects-in-js/associate-property.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects-in-js/data-validation.js" beforeDir="false" afterPath="$PROJECT_DIR$/objects-in-js/data-validation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects-in-js/negetive-indexing-array.js" beforeDir="false" afterPath="$PROJECT_DIR$/objects-in-js/negetive-indexing-array.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice.js" beforeDir="false" afterPath="$PROJECT_DIR$/practice.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/promises/laxy-promise.js" beforeDir="false" afterPath="$PROJECT_DIR$/promises/laxy-promise.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/promises/nested-promise.js" beforeDir="false" afterPath="$PROJECT_DIR$/promises/nested-promise.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/promises/simple.js" beforeDir="false" afterPath="$PROJECT_DIR$/promises/simple.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/read-excel-file/Data.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/read-excel-file/Data.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/read-excel-file/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/read-excel-file/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/refactoring-tech/extract-function.js" beforeDir="false" afterPath="$PROJECT_DIR$/refactoring-tech/extract-function.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/revison/generator20201004.js" beforeDir="false" afterPath="$PROJECT_DIR$/revison/generator20201004.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/revison/my-map-method-for-arrays.js" beforeDir="false" afterPath="$PROJECT_DIR$/revison/my-map-method-for-arrays.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/revison/prac-for-codewars.js" beforeDir="false" afterPath="$PROJECT_DIR$/revison/prac-for-codewars.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/revison/reduce-in-array.js" beforeDir="false" afterPath="$PROJECT_DIR$/revison/reduce-in-array.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tricks/optional-chaining.js" beforeDir="false" afterPath="$PROJECT_DIR$/tricks/optional-chaining.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/type-of-functions/caching-function.js" beforeDir="false" afterPath="$PROJECT_DIR$/type-of-functions/caching-function.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/type-of-functions/compose-function.js" beforeDir="false" afterPath="$PROJECT_DIR$/type-of-functions/compose-function.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/type-of-functions/currying-function.js" beforeDir="false" afterPath="$PROJECT_DIR$/type-of-functions/currying-function.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/type-of-functions/higher-order-function.js" beforeDir="false" afterPath="$PROJECT_DIR$/type-of-functions/higher-order-function.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/type-of-functions/lazy-function.js" beforeDir="false" afterPath="$PROJECT_DIR$/type-of-functions/lazy-function.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/type-of-functions/pure-function.js" beforeDir="false" afterPath="$PROJECT_DIR$/type-of-functions/pure-function.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/logToConsole.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/logToConsole.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +66,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
     <property name="run.prettier.on.save" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -254,6 +176,9 @@
       <workItem from="1603176780509" duration="834000" />
       <workItem from="1603179282490" duration="813000" />
       <workItem from="1603180106521" duration="2080000" />
+      <workItem from="1603187091245" duration="1198000" />
+      <workItem from="1603262881392" duration="23000" />
+      <workItem from="1604451409884" duration="3422000" />
     </task>
     <task id="LOCAL-00001" summary="Reading An Excel File In Node.js">
       <created>1598241238472</created>
@@ -310,14 +235,15 @@
       <screen x="55" y="27" width="1865" height="1053" />
     </state>
     <state x="155" y="125" width="1665" height="855" key="DiffContextDialog/55.27.1865.1053@55.27.1865.1053" timestamp="1602480729349" />
-    <state x="743" y="1107" width="424" height="484" key="FileChooserDialogImpl" timestamp="1602151798326">
-      <screen x="55" y="0" width="1865" height="2160" />
+    <state x="745" y="269" width="424" height="534" key="FileChooserDialogImpl" timestamp="1603262902244">
+      <screen x="58" y="27" width="1862" height="1053" />
     </state>
     <state x="708" y="1306" width="437" height="570" key="FileChooserDialogImpl/0.1080.1920.1080/55.0.1865.1080@0.1080.1920.1080" timestamp="1600588225069" />
     <state x="743" y="297" width="424" height="484" key="FileChooserDialogImpl/0.1080.1920.1080/55.0.1865.1080@55.0.1865.1080" timestamp="1598849802624" />
     <state x="743" y="247" width="424" height="484" key="FileChooserDialogImpl/0.1080.1920.1080/55.27.1865.1053@55.27.1865.1053" timestamp="1599199043547" />
     <state x="743" y="1107" width="424" height="484" key="FileChooserDialogImpl/55.0.1865.2160@55.0.1865.2160" timestamp="1602151798326" />
     <state x="743" y="317" width="424" height="484" key="FileChooserDialogImpl/55.27.1865.1053@55.27.1865.1053" timestamp="1600084668479" />
+    <state x="745" y="269" width="424" height="534" key="FileChooserDialogImpl/58.27.1862.1053@58.27.1862.1053" timestamp="1603262902244" />
     <state width="1839" height="275" key="GridCell.Tab.0.bottom" timestamp="1603176817003">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
@@ -402,12 +328,13 @@
     </state>
     <state width="1819" height="344" key="GridCell.Tab.3.right/0.1080.1920.1080/55.0.1865.1080@0.1080.1920.1080" timestamp="1600830601895" />
     <state width="1819" height="344" key="GridCell.Tab.3.right/55.27.1865.1053@55.27.1865.1053" timestamp="1600319819839" />
-    <state x="406" y="1254" width="1022" height="737" key="SettingsEditor" timestamp="1603180087001">
-      <screen x="0" y="1080" width="1920" height="1080" />
+    <state x="452" y="197" width="982" height="737" key="SettingsEditor" timestamp="1604451835835">
+      <screen x="58" y="27" width="1862" height="1053" />
     </state>
     <state x="449" y="174" key="SettingsEditor/0.1080.1920.1080/55.0.1865.1080@55.0.1865.1080" timestamp="1597391500209" />
     <state x="406" y="1254" width="1022" height="737" key="SettingsEditor/0.1080.1920.1080/58.0.1862.1080@0.1080.1920.1080" timestamp="1603180087001" />
     <state x="449" y="197" key="SettingsEditor/55.27.1865.1053@55.27.1865.1053" timestamp="1600261088631" />
+    <state x="452" y="197" width="982" height="737" key="SettingsEditor/58.27.1862.1053@58.27.1862.1053" timestamp="1604451835835" />
     <state x="620" y="308" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1600322951116">
       <screen x="55" y="27" width="1865" height="1053" />
     </state>
